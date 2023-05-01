@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wts-firebase/static/css/main.c2796cc8.css",
+    "main.js": "/wts-firebase/static/js/main.9fd4b255.js",
+    "static/js/787.bace5765.chunk.js": "/wts-firebase/static/js/787.bace5765.chunk.js",
+    "index.html": "/wts-firebase/index.html",
+    "main.c2796cc8.css.map": "/wts-firebase/static/css/main.c2796cc8.css.map",
+    "main.9fd4b255.js.map": "/wts-firebase/static/js/main.9fd4b255.js.map",
+    "787.bace5765.chunk.js.map": "/wts-firebase/static/js/787.bace5765.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2796cc8.css",
+    "static/js/main.9fd4b255.js"
+  ]
+}
