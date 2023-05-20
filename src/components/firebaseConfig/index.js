@@ -11,12 +11,9 @@ function StartFirebase(){
     storageBucket: "crud-firebase-66d0b.appspot.com",
     messagingSenderId: "56961373178",
     appId: "1:56961373178:web:4c04c2eaf020293a660a43"
-  };
-  
-  
+  }; 
   // Initialize Firebase
   const app = initializeApp(firebaseConfig);
   return getDatabase(app);
 }
-
 export default StartFirebase;
