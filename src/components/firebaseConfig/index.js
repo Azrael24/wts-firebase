@@ -3,7 +3,7 @@ import { getDatabase } from "firebase/database";
 
 // Your web app's Firebase configuration
 function StartFirebase(){
-const firebaseConfig ={
+const firebaseConfig = {
   apiKey: "AIzaSyA8MUfwbFU2MpcYgUqbajOIgaPH_JLmc2c",
   authDomain: "crud-firebase-66d0b.firebaseapp.com",
   databaseURL: "https://crud-firebase-66d0b-default-rtdb.firebaseio.com",
